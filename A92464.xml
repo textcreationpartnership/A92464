@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The truth of the proceedings in Scotland. Containing the discovery of the late conspiracie. With divers other remarkeable passages. Related in a letter written from Edinburgh, the 19. of October, 1641. Whereunto is added, an abstract of a letter written by his Majesty from Edinburgh, to one of the clarkes of the counsell, the 18. of October, 1641.</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92464</idno>
+            <idno type="STC">Wing S101</idno>
+            <idno type="STC">Thomason E173_29</idno>
+            <idno type="STC">ESTC R16469</idno>
+            <idno type="EEBO-CITATION">99860041</idno>
+            <idno type="PROQUEST">99860041</idno>
+            <idno type="VID">157067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157067)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The truth of the proceedings in Scotland. Containing the discovery of the late conspiracie. With divers other remarkeable passages. Related in a letter written from Edinburgh, the 19. of October, 1641. Whereunto is added, an abstract of a letter written by his Majesty from Edinburgh, to one of the clarkes of the counsell, the 18. of October, 1641.</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Domini 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. S.</note>
+                  <note>A variant has "Witten" instead of "Written" in line 14.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157067:1"/>
+            <pb facs="tcp:157067:1" rendition="simple:additions"/>
+            <p>THE TRVTH OF THE PROCEEDINGS IN SCOTLAND.</p>
+            <p>Containing the DISCOVERY Of the late <hi>CONSPIRACIE.</hi>
+            </p>
+            <p>With divers other Remarkeable Paſſages.</p>
+            <p>Related in a Letter written from Edinburgh, the 19. of October, 1641.</p>
+            <p>WHEREUNTO Js Added, An Abſtract of a Letter Written by his Majeſty from <hi>Edinburgh,</hi> to one of the Clarkes of the Counſell, <hi>the</hi> 18. <hi>of October,</hi> 1641.</p>
+            <p>Printed Anno Domini 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157067:2"/>
+            <pb n="1" facs="tcp:157067:2"/>
+            <opener>
+               <salute>COZEN,</salute>
+            </opener>
+            <p>YOur Letter of the 12. of this inſtant came to my hands, upon the 18. incloſed in my wives of the ſame date, <hi>you taxe my long ſi<g ref="char:EOLhyphen"/>lence, which indeed J can ſcarce pardon my ſelfe ia, but to thnt breach of faith you charge me with, I muſt plead not guilty; I do not forget what promiſe you drew from me at our parting, I thinke I have ſtretched it, but it is yet unbroken, you object my carefulneſſe in the diſ<g ref="char:EOLhyphen"/>charg of my debts of this kind to my other friends, your ſelfe being unremembred, give me leave to ſay this, J paid you but by</hi> d. <hi>the ſatisfaction I ſhall give you for ſo long forbearance, is to pay you by</hi> ls. <hi>and to bring in the groſſe ſumme at once.</hi>
+            </p>
+            <p>The buſineſſe of greateſt weight which hath bin agitate in this <hi>Parliament,</hi> ſince my comming into theſe parts, is that of the election of Counſellors, Officers of Eſtate, and Lords of Seſſion; which by the Treaty, are to be nominated, and choſen by the King, with the advice and approbation of the <hi>Parla<g ref="char:EOLhyphen"/>ment.</hi> The onely man who hath as yet bin choſen, ac<g ref="char:EOLhyphen"/>cording to that agreement, is the <hi>Lord Lowdon,</hi> who was nominated to the Office of Lord Chancellor by the King, and allowed by the <hi>Parliament,</hi> without the leaſt contradiction. And J beleeve there are o<g ref="char:EOLhyphen"/>thers,
+<pb n="2" facs="tcp:157067:3"/>
+whom before this time the Kings favour, and the ſenſe the <hi>Parliament</hi> hath of their good deſer<g ref="char:EOLhyphen"/>vings, would have preferred to ſome of the places, now void, if the Divell had not ſtirred vp ſome tur<g ref="char:EOLhyphen"/>bulent and ſeditiovs ſpirits to interrupt their pro<g ref="char:EOLhyphen"/>ceedings, that he might diſturbe the ſetled peace, and turne all things here into confuſion and bloud-ſhed. At the firſt, men onely feared private quarrels, and feudes, (which though they have formerly had la<g ref="char:EOLhyphen"/>mentable &amp; ſad effects in this Nation) yet had they not that generall malignity in them, which theſe late troubles doe diſcover. It appeares now, that the aime was not at particular perſons, but at the cauſe, which muſt needs have bin ſorely ſhaken, if ſo great pillars had bin pulled away.</p>
+            <p>At the firſt, there appeared onely the Lord <hi>Carre,</hi> Son to the Earle of <hi>Ropborough,</hi> and the Earle of <hi>Cranford</hi> was but his ſecond: but now the Earle of <hi>Cranford</hi> is a principall, &amp; how many Seconds he hath, is yet undiſcovered. It is now the judgment of moſt men, that the firſt buſineſſe of the L. <hi>Carre,</hi> was but an untimely birth of this Plot, which is now come to light: The firſt was thus. The Earle of <hi>Cranford,</hi> the Lord <hi>Carre,</hi> and ſome others, being at Supper in Maſter <hi>William Murrayes</hi> Chamber, there came in Sir <hi>Iames Ha<g ref="char:EOLhyphen"/>milton,</hi> whoſe company the Lord Carre diſliking, becauſe of his Relation to the Marqueſſe of <hi>Hamilton,</hi> after ſome ex<g ref="char:EOLhyphen"/>ception taken to him, told him, his chiefe (meaning the L. Marqueſſe) was a Traytor, and had juggled with the King theſe 2 or 3 yeares. Theſe words he afterwards backt with a Challenge, which he ſent to the Marqueſſe by the hand of the Earle of Cranford. Theſe paſſages comming to the notice of the King and Parliament, they were ſo ſenſible of the unworthineſſe of thoſe carriages, that they ordered the Lord Carre to make this Submiſſion.</p>
+            <p>
+               <pb n="3" facs="tcp:157067:3"/>
+               <q>
+                  <hi>I</hi> Henry Lord <hi>Carre,</hi>have already acknowledged my offence to his Majeſty, &amp; asked his <hi>pardon, which I do now like<g ref="char:EOLhyphen"/>wiſe to this Honourable Houſe of Parliament,</hi> and for the ſcandalous <hi>words,</hi> con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning the Marqueſſe of<hi>Hamilton,</hi> which were ſpoken by me. I confeſſe them to be raſh, &amp; ground<g ref="char:EOLhyphen"/>leſſe, and that I am ſorry for the ſame.</q>
+            </p>
+            <p>This Submiſſion it was thought reaſonable hee ſhould make at the Parliament Barre, as a Delin<g ref="char:EOLhyphen"/>quent in a very high nature. But the noble Marquis was ſo affected with the ſenſe, which both his Maje<g ref="char:EOLhyphen"/>ſty, and the Parliament had of the injury done him, and the reparation they had made him, that with a great deale of earneſtneſſe he preſſed, and did pre<g ref="char:EOLhyphen"/>vaile, that the Lord <hi>Carre</hi> might not give that ſatiſ<g ref="char:EOLhyphen"/>faction in a place of ſo much ignominy, but might have the favour to ſtand in the middle of the houſe, there to obey what they had impoſed upon him. After this acknowledgment made by the Lord <hi>Carre,</hi> it pleaſed his Majeſty and the Parliament to make this Declaration, following.</p>
+            <p>
+               <q>WHereas there hath bin certain ſcandalous <hi>words</hi> spoken of the Marqueſſe of <hi>Hamilton,</hi> tending to the prejudice of his <hi>honour,</hi> and fidelity to his Majeſtie, and his <hi>Countrey,</hi> which are now acknowledged by <hi>Henry Lord Carre,</hi> speaker thereof, in preſence of his Majeſty, and the Eſtates of Parliament, to have beene raſh and groundleſſe,
+<pb n="4" facs="tcp:157067:4"/>
+For the speaking whereof, hee is heartily ſorry, and ſince his Majeſty and the Eſtates of Parliament, knowes them to be ſo: Therefore his Majeſty and the ſaid Eſtates declare, the ſaid Marqueſſe of Hamilton to be free thereof, and eſteemes him to be a Loyall Subject to his Majeſty, and a faithfull Patriot to his Countrey, and the ſaid Eſtates remit the further Cenſure of the ſaid Lord Carre, to the Kings Majeſty.</q>
+            </p>
+            <p>This buſineſſe thus paſſed over, the Parliament returned to that which they were formerly upon: which was, the election of Officers of Eſtate. And for a faire accomodation of all things, they appoin<g ref="char:EOLhyphen"/>ted-<hi>Committee,</hi> conſiſting of 6 of every Eſtate: for the Lords, were the Lord Chancellor <hi>Lowdon,</hi> the Earle of <hi>Argile,</hi> the Earle of <hi>Caſſels,</hi> the Earle of <hi>Glencarne,</hi> the Lord <hi>Balmerinoth, Preſident of the Parliament,</hi> and the Lord <hi>Lindſey.</hi> And for the Ba<g ref="char:EOLhyphen"/>rons and Burgeſſes, ſixe of either Eſtate, men of knowne wiſedome and integrity: whom they intru<g ref="char:EOLhyphen"/>ſted to make ſome over-turnes to his Majeſty pri<g ref="char:EOLhyphen"/>vately, and afterward to impart them to the ſeverall Eſtates.</p>
+            <p>In few dayes, their conſultations had this iſſue, that they delivered in a paper to the King; which his Majeſty approving, they after that, preſented to the ſeverall Eſtates. The tenour whereof: was,</p>
+            <p>
+               <q>THE Eſtates of Parliament conſidering, that albeit Iohn Earle of <hi>Traquaire,</hi> &amp;c. are cited before them, and accu<g ref="char:EOLhyphen"/>ſed, as guilty, of divers bainous, and Treaſonable Crimes, per<g ref="char:EOLhyphen"/>petrated, and commttted by them, againſt the Common-wealth, contained in their ſeverall Ditties, which they have juſt reaſon to proſecute.</q>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:157067:4"/>Nevertheleſſe the ſaid eſtates of Parliament taking into their conſideration his Majeſties moſt gracious goodneſſe towards this his native Kingdome, and his fatherly care and wiſdome in compoſing of all paſt differences, and providing for the future, to the great joy and happineſſe of all his Subjects, doe in retribution thereof with an unanimous conſent to teſtifie their high reſpect and thankfelneſſe to his Majeſty: And that his Majeſty may joyfully returne a contented Prince from a contented people, to the ſetling of his roy<g ref="char:EOLhyphen"/>all affaires in his other Dominions, beleeving that the ſame will be acceptable to his Majeſty, and moſt conducible to the peace and good of the Kingdome, Declare that they will not inſiſt fur<g ref="char:EOLhyphen"/>ther in the proceſſe intended againſt the ſaid per<g ref="char:EOLhyphen"/>ſons, nor proceede to any ſentence thereupon, but acquit and diſcharge them freely of the ſame crime containd in their dittie libelled againſt them reſpe<g ref="char:EOLhyphen"/>ctive &amp; grants them liberty to repair to their houſes, to attend their private affaires, they alwayes beha<g ref="char:EOLhyphen"/>ving themſelves within the compaſſe of their pri<g ref="char:EOLhyphen"/>vate calling.</p>
+            <p>The eſtates conſidering, that whereas albeit <hi>Iames</hi> Earle of <hi>Montroſe, &amp;c.</hi> are cited before them, and accuſed as guilty of divers crimes and miſdemeanours committed by them to the juſt of<g ref="char:EOLhyphen"/>fence of the Eſtates of Parliament, and derogatory to the great truſt and confidence had of them; and albeit the Parliament have juſt reaſon to perſecute their proceſſe, yet nevertheleſſe, &amp;c. <hi>as in the for<g ref="char:EOLhyphen"/>mer.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:157067:5"/>The Eſtates of Parliament conſidering, that wher<g ref="char:EOLhyphen"/>as there are divers and ſundry <hi>perſons</hi> indicted, and accuſed before this <hi>Parliament,</hi> as guilty of certain Crimes committed againſt the State, and to the prejudice of the peace of this Kingdome. Never<g ref="char:EOLhyphen"/>theleſſe, the ſaid <hi>Eſtates</hi> of <hi>Parliament</hi> conſidering that by Gods mercy and providence, and by his Majeſties great wiſedome, and all our tempeſts are turned into the calme of an happy peace, doe here<g ref="char:EOLhyphen"/>by out of their reſpect to his Majeſty, to whom they know the ſame will be acceptable, declare that they will not inſiſt in any further Tryall of the ſaid crimes, but have acquit and diſcharged, and hereby acquits and diſcharges all other perſons cited and called to appeare before them, to anſwer for what<g ref="char:EOLhyphen"/>ſoever crimes or miſdemeanours, during the late troubles. And declares the Act of Pacification and Oblivion, and benefit therof to be extended to them ſuch like: as they had not bin cited to appeare be<g ref="char:EOLhyphen"/>fore this preſent Parliament, without prejudice al<g ref="char:EOLhyphen"/>wayes of the reſtitution to private parties, &amp;c con<g ref="char:EOLhyphen"/>forme to the ſaid Act of Pacification, contained in the Treaty.</p>
+            <p>Vpon Munday the 11. of this preſent, the ſeverall eſtates took this paper into conſideration &amp; there was only this objection, by ſome made to it, that it ſeemed to contra<g ref="char:EOLhyphen"/>dict the oath they had taken, which did oblige all the members of that Parliament, to bring the in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endiaries to an exact tryall. The noble earle of Argile who had taken much paines, to bring their affaires into this hopefull way of accomodation, did now very much labour to re<g ref="char:EOLhyphen"/>move this block, which lay in the way to it, and gave this anſwere.</p>
+            <p>
+               <pb n="7" facs="tcp:157067:5"/>That that Oath was but conditionall, the intent of it being onely the peace and good of the King<g ref="char:EOLhyphen"/>dome, and this way propoſed did moſt conduce to that end, and therefore, that clauſe might be diſpen<g ref="char:EOLhyphen"/>ſed with. In concluſion he prevailed thus farre, that they reſolved ſome Miniſters<g ref="char:punc">▪</g> ſhould be advi<g ref="char:EOLhyphen"/>ſed with in point of Conſcience, whether they might diſpenſe with their Oath in that particular;</p>
+            <p>When all things were in this faire and hopefull way of accomodation, and the <hi>King</hi> &amp; <hi>Parliament</hi> thus neere a full agreement <hi>(they being aſſured that his Maieſty would condeſcend to them in thoſe par<g ref="char:EOLhyphen"/>ticulars they ſhould propound to him; as on their part they had omitted nothing that might be to his Maje<g ref="char:EOLhyphen"/>ſties ſatisfaction)</hi> there was diſcovered a deſigne to be put in execution that very night, againſt the Marqueſſe of <hi>Hamilton,</hi> and the <hi>Earles of Argile,</hi> &amp; <hi>Lanerick,</hi> wherupon they left the Court that night, where they were informed the danger would bee, and lodged in the Towne, and the next day retired to <hi>Kineele,</hi> an houſe that belonged to the Marquis, about 12. miles from <hi>Edenburgh,</hi> leſt their preſence in the towne ſhould occaſion any tumult to the offence of the Kings Majeſty, and diſtur<g ref="char:EOLhyphen"/>bance of the proceedings of the Parliament. The Parlament being that day made acquainted with the bu<g ref="char:EOLhyphen"/>ſineſſe ſent for thoſe 3 that were the firſt diſcoverers of it, which were Lieutenant Colonell <hi>Hume</hi> Lieutenant Colo<g ref="char:EOLhyphen"/>nell <hi>Hurry,</hi> and Captain <hi>Will. Stewart,</hi> their depoſitions being preſently taken, they were in the afternoone read in full Parliament.</p>
+            <p>
+               <pb n="8" facs="tcp:157067:6"/>Captaine <hi>Wil. Stewart</hi> did depoſe, that the day before being Munday the 11. of Octob. being in a Tavern with his couſen Leiutenant Colonell <hi>Stew<g ref="char:EOLhyphen"/>art,</hi> he deſired an oath of ſecrecy of him, telling him he had ſomething to imparte to him, but hee making anſwere; that hee never found him unſe<g ref="char:EOLhyphen"/>cret, his couſen ſaid well, the Marqueſſe of <hi>Hamil<g ref="char:EOLhyphen"/>toune,</hi> and the Earle of <hi>Argile</hi> have governed all things at their pleaſure this time paſt, but we have now got a ſtrong party againſt them, and this night <hi>W. Murray</hi> ſhall bring them into the privie Chamber, as to a conſultation, my Lord <hi>Amont,</hi> the Earle of <hi>Crauford</hi> and ſome others ſhall come up the ſtaires out of the garden; and arreſt them in the King's name, and carry them to the Kings Ship, the Earle of <hi>Crauford</hi> adviſeth to cut them off, but my Lord <hi>Amont</hi> would have them tryed by Parliament, the Earle of <hi>Lanerike</hi> is to bee taken with them, The Towne and Channon-gate are ſure to us, and wee have enough to defend the Court, untill ſuch time as the Earle of <hi>Roxborougb, Hume,</hi> and others bring in their friends, who are all of our party. Leiutenant Colonell <hi>Hurry</hi> did de<g ref="char:EOLhyphen"/>poſe that on Munday the eleventh of October, the Earle of <hi>Crauford</hi> told him, that if he would bring with him foure or five good fellows early in the morning he might make him a fortune,</p>
+            <p>Lieutenant Colonell <hi>Hume</hi> did depoſe that on Thurſday the eighth of October, Colonell <hi>Cock<g ref="char:EOLhyphen"/>rane</hi> told him, if he would joyne with him, hee
+<pb n="9" facs="tcp:157067:6"/>
+would ſhew him a way to make himſelfe a fortune. And the Munday following at the Earle of <hi>Crau<g ref="char:EOLhyphen"/>fords</hi> houſe demanded an oath of ſecrecy of him, promiſing him to impart ſomething to him, but he anſwered, if it were any thing againſt his coun<g ref="char:EOLhyphen"/>trey or his covenant he would not ſweare, where<g ref="char:EOLhyphen"/>upon the <hi>Colonell</hi> would not impart any thing to him,</p>
+            <p>Vpon theſe depoſitions the Earle of <hi>Crauford,</hi> Colonell <hi>Cockraine</hi> and Leiftenant colonell <hi>Stew<g ref="char:EOLhyphen"/>art</hi> were that afternoone committed, and are ſo to remain untill ſuch time as they be examined, mean while the ports are ſhut up and guards are appoin<g ref="char:EOLhyphen"/>ted for the ſecurity of the towne and Parliament, the care of them is committed to the generall <hi>Leſ<g ref="char:EOLhyphen"/>ly,</hi> and Proclamation hath beene made that all who have not ſpeciall buſineſſe in <hi>Parliament,</hi> nor are the neceſſary ſervants of Parliament men, <hi>ſhould preſently depart the towne, unleſſe they bee li<g ref="char:EOLhyphen"/>cenced by the Lord Generall for to ſtay.</hi>
+            </p>
+            <p>It is not yet reſolved whether thoſe that are accuſed ſhall bee examined in full Par<g ref="char:EOLhyphen"/>liament, or before a Committee, To mor<g ref="char:EOLhyphen"/>row the reſolution is expected</p>
+            <p>Couſen, it it is time, J cloſe, leſt I weary both my ſelfe and you, I having beene ſo long ſilent, I cannot write leſſe, and untill further
+<pb n="10" facs="tcp:157067:7"/>
+Diſcovery be made, I ſhall not write more, but commit you to him who dwelleth in light, &amp; will in his due time bring to light all the hidden things of darkneſſe, and remaine</p>
+            <closer>
+               <dateline>EDENBURGH, <date>October 19. 1641.</date>
+               </dateline>
+               <signed>Your <hi>Couſin</hi> that will ever love and ſerve you. <hi>J.S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>An Abſtract of a Letter writ<g ref="char:EOLhyphen"/>ten with his Majeſties owne hand at <hi>Edinburgh, October</hi> 18. 1641. To Mr. Nicholas Clarke of the Counſell.</head>
+            <p>I Heare it is reported, that I am reſolved at my return to alter the Forme of the Church-Government in <hi>England</hi> to this in Scotland. Therefore I command you, to aſſure all my Servants there, that I am con<g ref="char:EOLhyphen"/>ſtant for the Doctrine and Diſcipline of the Church of <hi>England,</hi> as it was eſtabliſhed by Queene <hi>Elizabeth,</hi> and my Father: and reſolve by the Grace of God, to live and dye in the maintainance of it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157067:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
